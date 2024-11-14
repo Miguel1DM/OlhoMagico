@@ -30,7 +30,7 @@ O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com per
 
 Você pode testar o sistema diretamente na versão hospedada:
 
-- **Link para o sistema hospedado:** [Acesse o Olho Mágico](http://link-da-pagina-hospedada.com)
+- **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
 
 ### 👤 Logins Globais
 
