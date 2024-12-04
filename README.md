@@ -2,6 +2,24 @@
 
 **Olho Mágico** é um sistema de gerenciamento de condomínio focado na comunicação eficiente entre o prédio e os moradores. Ao invés de priorizar a interação entre os próprios moradores, o aplicativo oferece funcionalidades voltadas para a gestão de processos administrativos, controle de visitantes e encomendas, agendamento de espaços comuns, entre outras funções essenciais para a administração de um condomínio.
 
+## 🤔 Como Acessar?
+
+### 🌐 Acesso Online
+
+Você pode testar o sistema diretamente na versão hospedada:
+
+- **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
+
+**OU**
+
+### 📱 Aplicativo Movel
+
+Baixe nosso aplicativo em seu dispositivo móvel
+
+- **Download do APK neste repositôrio**
+
+**OBS: O aplicativo movel não tem suporte para Síndico e Porteiro**
+
 ## 📋 Funcionalidades
 
 O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com permissões específicas:
@@ -26,13 +44,8 @@ O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com per
 - Registrar visitantes e prestadores de serviços, incluindo habilitar ou desabilitar a entrada deles.
 - Registrar veículos para controle de entrada e saída.
 
-### 🌐 Acesso Online
 
-Você pode testar o sistema diretamente na versão hospedada:
-
-- **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
-
-### 👤 Logins Globais
+## 👤 Logins Globais
 
 Para testar o sistema com diferentes tipos de usuários, você pode usar os logins globais a seguir. Todos eles têm permissões específicas para o tipo de usuário que representam:
 
@@ -52,8 +65,26 @@ Esses logins permitem que você acesse o sistema e explore as funcionalidades di
 
 ## 🚀 Tecnologias
 
+- [React](https://react.dev/) (Front-End)
+- [ReactNative](https://reactnative.dev/) (Mobile)
 - [Node.js](https://nodejs.org/) (Back-end)
 - [MySQL](https://www.mysql.com/) (para banco de dados)
 - [Npm](https://www.npmjs.com/) (gerenciador de pacotes)
-- **Firebase Cloud Messaging (FCM)** (Push Notifications)
 - [Azure](https://azure.microsoft.com/pt-br/get-started/azure-portal/) (Hospedagem de toda a infraestrutura do projeto)
+- **Firebase Cloud Messaging (FCM)** (Push Notifications)
+
+## 💻 Desenvolvedores
+
+### Back-End
+- [Miguel Pereira](https://github.com/Miguel1DM)
+- [Vinicius Gomes](https://github.com/VGLink)
+- [Daniel Medrado](https://github.com/ren-angel)
+
+### Front-End
+- [Alexsandra Campos](https://github.com/AlexsandraMCampos)
+- [Vinicius Castro](https://github.com/Vinecastro)
+- [Yago Rodrigues](https://github.com/HyRss)
+
+### Mobile
+- [Rafael Novais](https://github.com/oN0V41S)
+- [Lucas Vasconcelos](https://github.com/LucasVasconcelosDev)
